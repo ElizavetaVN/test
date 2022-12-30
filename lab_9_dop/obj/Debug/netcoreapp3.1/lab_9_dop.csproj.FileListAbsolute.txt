@@ -1,0 +1,17 @@
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\bin\Debug\netcoreapp3.1\lab_9_dop.exe
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\bin\Debug\netcoreapp3.1\lab_9_dop.deps.json
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\bin\Debug\netcoreapp3.1\lab_9_dop.runtimeconfig.json
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\bin\Debug\netcoreapp3.1\lab_9_dop.runtimeconfig.dev.json
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\bin\Debug\netcoreapp3.1\lab_9_dop.dll
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\bin\Debug\netcoreapp3.1\lab_9_dop.pdb
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.csproj.AssemblyReference.cache
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.AssemblyInfoInputs.cache
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.AssemblyInfo.cs
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.dll
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.pdb
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.genruntimeconfig.cache
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Елизавета\source\repos\lab_9_dop\lab_9_dop\obj\Debug\netcoreapp3.1\lab_9_dop.csproj.ResolveComReference.cache
